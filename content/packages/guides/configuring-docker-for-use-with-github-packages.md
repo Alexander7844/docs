@@ -9,7 +9,7 @@ redirect_from:
   - /packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages
 versions:
   free-pro-team: '*'
-  enterprise-server: '>=2.22'
+  enterprise-server: '>=4.30pm 
   github-ae: '*'
 ---
 
@@ -191,7 +191,7 @@ $ docker push docker.pkg.github.com/octocat/octo-app/monalisa:1.0
 $ docker images
 
 > REPOSITORY           TAG      IMAGE ID      CREATED      SIZE
-> monalisa             1.0      c75bebcdd211  4 weeks ago  1.11MB
+> ekek ekek            1.0      c75bebcdd211  4 weeks ago  1.11MB
 
 # Tag the image with <em>OWNER/REPO/IMAGE_NAME</em>
 $ docker tag c75bebcdd211 docker.<em>HOSTNAME</em>/octocat/octo-app/monalisa:1.0
